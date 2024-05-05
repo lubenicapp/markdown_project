@@ -1,8 +1,8 @@
-# markdown_project
+# markdown project
 to try markdown rendering in another app
 
 
-## sub section
+## sub section 2
 
 bla bla list
 - bla1
@@ -15,7 +15,7 @@ print('some python code')
 
 text text
 
-### subsub title
+### subsub title 3
 some text again
 
 
